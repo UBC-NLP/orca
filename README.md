@@ -1,14 +1,3 @@
-<style>
-        .brand {
-  font-family: "Rubik", sans-serif;
-  font-size: 1.625rem;
-  font-weight: 600;
-  line-height: 1.25;
-  letter-spacing: -1px;
-  color: var(--color-pink-600);
-  text-transform:none;
-}
-</style>
 <p align="center">
     <br>
     <img src="https://superarlue.dlnlp.ai/assets/superARLUE_logo.png" width="50%"/>
@@ -30,9 +19,7 @@
 
 </p>
  
-<p>Over the last few years, several pre-trained languages models and transfer learning techniques have been proposed and led to a significant performance improvement across diverse natural language understanding (NLU) tasks. Although several NLU benchmarks models have been introduced in order to evaluate the effectiveness of such pre-trained models and techniques. </p>
-<p><span class='brand'>SuperARLUE</span> is a large-scale ARabic Language Understanding and Evaluation benchmark styled after ARLUE (AbdulMageed et al., 2021) with a new set of publicly available NLU tasks and datasets. </p>
-<p><span class='brand'>SuperARLUE</span>  is composed of 60 publicly available datasets and covers seven NLU task clusters. </p>
-<p>Providing a deep comprehensive comparison of the performance of all recently released Arabic pre-trained language models on <span class='brand'>SuperARLUE</span>  benchmark. </p>
+<p>Over the last few years, several pre-trained languages models and transfer learning techniques have been proposed and led to a significant performance improvement across diverse natural language understanding (NLU) tasks. Although several NLU benchmarks models have been introduced in order to evaluate the effectiveness of such pre-trained models and techniques. <br>
+<b>SuperARLUE</b> is a large-scale ARabic Language Understanding and Evaluation benchmark styled after ARLUE (AbdulMageed et al., 2021) with a new set of publicly available NLU tasks and datasets. It's composed of 60 publicly available datasets and covers seven NLU task clusters. Moreover, we provide a deep comprehensive comparison of the performance of all recently released Arabic pre-trained language models on <b>SuperARLUE</b>  benchmark. </p>
   
 # superarlue
