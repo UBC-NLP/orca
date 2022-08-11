@@ -29,4 +29,4 @@
     pip install datasets transformers seqeval
 ```
 ## Fine-tuning a model on SuperARLUE tasks
-We provide a Colab Notbook has an instructions for fine-tunining any model on SuperARLUE dtasks. <a href="https://colab.research.google.com/github/UBC-NLP/superarlue/blob/main/Fine_tuning_on_SuperARLUE.ipynb.ipynb"><img alt="colab" src="https://colab.research.google.com/assets/colab-badge.svg">
+We provide a Google's Colab Notbook has an instructions for fine-tunining any model on SuperARLUE dtasks. <a href="https://colab.research.google.com/github/UBC-NLP/superarlue/blob/main/Fine_tuning_on_SuperARLUE.ipynb.ipynb"><img alt="colab" src="https://colab.research.google.com/assets/colab-badge.svg">
