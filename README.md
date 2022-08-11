@@ -22,4 +22,11 @@
 <p>Over the last few years, several pre-trained languages models and transfer learning techniques have been proposed and led to a significant performance improvement across diverse natural language understanding (NLU) tasks. Although several NLU benchmarks models have been introduced in order to evaluate the effectiveness of such pre-trained models and techniques. <br>
 <b>SuperARLUE</b> is a large-scale ARabic Language Understanding and Evaluation benchmark styled after ARLUE (AbdulMageed et al., 2021) with a new set of publicly available NLU tasks and datasets. It's composed of 60 publicly available datasets and covers seven NLU task clusters. Moreover, we provide a deep comprehensive comparison of the performance of all recently released Arabic pre-trained language models on <b>SuperARLUE</b>  benchmark. </p>
   
-# superarlue
+# How to use
+
+## Install Requirments
+```shell
+    pip install datasets transformers seqeval
+```
+## Fine-tuning a model on SuperARLUE tasks
+We provide a Colab Notbook has an instructions for fine-tunining any model on SuperARLUE dtasks. <a href="https://colab.research.google.com/github/UBC-NLP/superarlue/blob/main/Fine_tuning_on_SuperARLUE.ipynb.ipynb"><img alt="colab" src="https://colab.research.google.com/assets/colab-badge.svg">
