@@ -99,13 +99,13 @@ We arrange [**ORCA**](https://arxiv.org/abs/2212.10758), into seven NLU task clu
     pip install datasets transformers seqeval
 ```
 ### Fine-tuning a model on ORCA tasks
-We provide a Google's Colab Notbook that has an instructions for fine-tunining any model on ORCA dtasks. <a href="https://colab.research.google.com/github/UBC-NLP/orca/blob/main/Finetuning_ORCA.ipynb.ipynb"><img alt="colab" src="https://colab.research.google.com/assets/colab-badge.svg">
+We provide a Google Colab Notebook that includes instructions for fine-tuning any model on ORCA tasks. <a href="https://colab.research.google.com/github/UBC-NLP/orca/blob/main/Finetuning_ORCA.ipynb.ipynb"><img alt="colab" src="https://colab.research.google.com/assets/colab-badge.svg">
 
 ### Submitting your results on ORCA test 
 
 We design a public leaderboard for scoring PLMs on ORCA. Our leaderboard is interactive and offers rich meta-data about the various datasets involved as well as the language models we evaluate. 
 
-You can evalute your models using **ORCA** leaderboard: **[https://orca.dlnlp.ai]**(https://orca.dlnlp.ai/index_main.php)
+You can evalute your models using **ORCA** leaderboard: **[https://orca.dlnlp.ai](https://orca.dlnlp.ai/index_main.php)**
 
 
 ---
