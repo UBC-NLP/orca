@@ -85,7 +85,7 @@ In this work, we introduce [**ORCA**](https://arxiv.org/abs/2212.10758), a publi
 
 
 ###  Word Sense Disambiguation (WSD)
-|**Task**| **Variation **     | **Metric**   | **URL**    | **Bibtex**   |
+|**Task**| **Variation**     | **Metric**   | **URL**    | **Bibtex**   |
 |---------|--------|--------|-------|------|
 |[Word Sense Disambiguation](https://www.mdpi.com/2076-3417/11/6/2567)     |MSA      |  Macro F1 |       |    [El-Razzaz, 2021](https://www.mdpi.com/2076-3417/11/6/2567) | 
 
