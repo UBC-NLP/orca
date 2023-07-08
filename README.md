@@ -26,9 +26,9 @@
 ###  (1) Natural Language Inference (NLI)
 |**Task**| **Variation **     | **Metric**   | **URL**    | **Bibtex**   |
 |---------|--------|--------|-------|------|
-|[ANS Stance](https://aclanthology.org/2020.fever-1.2/)      |MSA      |  Macro F1 |       |    [(Khouja, 2020)](https://scholar.googleusercontent.com/scholar.bib?q=info:Dl2jkOr3b2IJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gr2mYs:ABFrs3wAAAAAZKjwgYvKUQTr12NsJBP89r72L4U&scisig=ABFrs3wAAAAAZKjwgZBGKXv4I0rJEEVCFoE1WQ0&scisf=4&ct=citation&cd=-1&hl=en) | 
-|[Baly Stance](https://aclanthology.org/N18-2004/)     |MSA      |  Macro F1 |       |    XX | 
-|[XLNI](https://github.com/facebookresearch/XNLI)            |MSA      |  Macro F1 |       |    XX | 
+|[ANS Stance](https://aclanthology.org/2020.fever-1.2/)      |MSA      |  Macro F1 |       |    [Khouja, 2020](https://scholar.googleusercontent.com/scholar.bib?q=info:Dl2jkOr3b2IJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gr2mYs:ABFrs3wAAAAAZKjwgYvKUQTr12NsJBP89r72L4U&scisig=ABFrs3wAAAAAZKjwgZBGKXv4I0rJEEVCFoE1WQ0&scisf=4&ct=citation&cd=-1&hl=en) | 
+|[Baly Stance](https://aclanthology.org/N18-2004/)     |MSA      |  Macro F1 |       |    [Balyet al., 2018](https://scholar.googleusercontent.com/scholar.bib?q=info:WDtKxc5WLi4J:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gr3PKc:ABFrs3wAAAAAZKjxJKftaQjEZEhOeQIkitiavGk&scisig=ABFrs3wAAAAAZKjxJFSQMJ2SNRGmYSqVZJAa_TY&scisf=4&ct=citation&cd=-1&hl=en) | 
+|[XLNI](https://github.com/facebookresearch/XNLI)            |MSA      |  Macro F1 |       |    [Conneau et al., 2018](https://scholar.googleusercontent.com/scholar.bib?q=info:dwBo6WQBvtAJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gr3fS0:ABFrs3wAAAAAZKjxZS3vB-TBD3C6uNciU5h8W2k&scisig=ABFrs3wAAAAAZKjxZbTeiO54_fLShkIoYea-zg4&scisf=4&ct=citation&cd=-1&hl=en) | 
 
 
 # How to use
