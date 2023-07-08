@@ -48,7 +48,7 @@ In this work, we introduce [**ORCA**](https://arxiv.org/abs/2212.10758), a publi
 
 
 
-###  (4) Sentence Classification (SC)
+### (4) Sentence Classification (SC)
 |**Task**| **Variation**     | **Metric**   | **URL**    | **Bibtex**   |
 |---------|--------|--------|-------|------|
 |[Abusive](https://aclanthology.org/W19-3512/)      |DA      |  Macro F1 |       |    [Mulki et al., 2019](https://scholar.googleusercontent.com/scholar.bib?q=info:rfEhXJdtqcgJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gr9Gog:ABFrs3wAAAAAZKj7Aog3zIXv0eE5S7vtBl-1IAM&scisig=ABFrs3wAAAAAZKj7AoxDWAq2kYzqlddJwFHHD1o&scisf=4&ct=citation&cd=-1&hl=en) | 
@@ -70,7 +70,7 @@ In this work, we introduce [**ORCA**](https://arxiv.org/abs/2212.10758), a publi
 
 
 ###  (5) Structure Predictions (SP)
-|**Task**| **Variation **     | **Metric**   | **URL**    | **Bibtex**   |
+|**Task**| **Variation**     | **Metric**   | **URL**    | **Bibtex**   |
 |---------|--------|--------|-------|------|
 |[Aqmar NER](https://www.cs.cmu.edu/~ark/ArabicNER/)      |MSA      |  Macro F1 |       |    [Mohit, 2012](https://scholar.googleusercontent.com/scholar.bib?q=info:yAp4k3zwiUEJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gsH__s:ABFrs3wAAAAAZKkB5_vSGkF_RBbXEJ6jQtj1QLE&scisig=ABFrs3wAAAAAZKkB51R-dpSL59TX-7pfhBpllYY&scisf=4&ct=citation&cd=-1&hl=en) | 
 |[Arabic NER Corpus](http://www.dsic.upv.es/~prosso/resources/BenajibaRosso_IICAI07.pdf)     |MSA      |  Macro F1 |       |    [Benajiba and Rosso, 2007](https://scholar.googleusercontent.com/scholar.bib?q=info:7lzaX3LgFm0J:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gsEZds:ABFrs3wAAAAAZKkCfdu54C_20sUBAs0qQl0T-MU&scisig=ABFrs3wAAAAAZKkCfRUtInM39LNKgqLZG7jAPs8&scisf=4&ct=citation&cd=-1&hl=en) | 
@@ -100,3 +100,29 @@ In this work, we introduce [**ORCA**](https://arxiv.org/abs/2212.10758), a publi
 We provide a Google's Colab Notbook that has an instructions for fine-tunining any model on ORCA dtasks. <a href="https://colab.research.google.com/github/UBC-NLP/orca/blob/main/Finetuning_ORCA.ipynb.ipynb"><img alt="colab" src="https://colab.research.google.com/assets/colab-badge.svg">
 
 ## Submitting your results on ORCA test 
+
+
+
+---
+
+## 7. Citation
+If you use ORCA for your scientific publication, or if you find the resources in this repository useful, please cite our paper as follows (to be updated):
+```
+@article{elmadany2022orca,
+  title={{ORCA: A Challenging Benchmark for Arabic Language Understanding}},
+  author={Elmadany, AbdelRahim and Nagoudi, El Moatez Billah and Abdul-Mageed, Muhammad},
+  booktitle = "61st Annual Meeting of the Association for Computational Linguistics (ACL’23)",
+  address = "Toronto, Canada",
+  publisher = "Association for Computational Linguistics",
+  url={https://arxiv.org/pdf/2212.10758.pdf},
+  year={2023}
+}
+
+```
+
+---
+
+## 8. Acknowledgments
+We gratefully acknowledge support from the Natural Sciences and Engineering Research Council  of Canada, the  Social  Sciences and  Humanities  Research  Council  of  Canada, Canadian  Foundation  for  Innovation,  [ComputeCanada](www.computecanada.ca) and [UBC ARC-Sockeye](https://doi.org/10.14288/SOCKEYE). We  also  thank  the  [Google TensorFlow Research Cloud (TFRC)](https://www.tensorflow.org/tfrc) program for providing us with free TPU access.
+
+
