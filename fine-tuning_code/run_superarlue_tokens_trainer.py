@@ -292,8 +292,9 @@ def main():
         for label in labels:
             unique_labels = unique_labels | set(label)
         label_list = list(unique_labels)
-        label_list.append("unlabeld") # for test set
+        # label_list.append("unlabeld") # for test set
         label_list.sort()
+        # print(">>>>>>>label_list=", label_list)
         return label_list
 
     if isinstance(features[label_column_name].feature, ClassLabel):
@@ -465,6 +466,10 @@ def main():
             [label_list[p] for (p, l) in zip(prediction, label) if l != -100]
             for prediction, label in zip(predictions, labels)
         ]
+        # true_labels = [
+        #     [label_list[l] for (p, l) in zip(prediction, label) if l != -100]
+        #     for prediction, label in zip(predictions, labels)
+        # ]
         true_labels = [
             [label_list[l] for (p, l) in zip(prediction, label) if l != -100]
             for prediction, label in zip(predictions, labels)
@@ -551,16 +556,16 @@ def main():
         # Save predictions
         output_predictions_file = os.path.join(training_args.output_dir, data_args.dataset_config_name+"_predictions.txt")
         if trainer.is_world_process_zero():
-            with open(output_predictions_file, "w") as writer:
-                json.dump(predictions, writer)
-
             # with open(output_predictions_file, "w") as writer:
-            #     for prediction in true_predictions:
-            #         writer.write(" ".join(prediction) + "\n")
-        logger.info("********** IMPORTANT: Obtaining Score on Test Instructions **********")
-        logger.info("     (1) Create a new profile on  super-ARLUE website (https://superarlue.dlnlp.ai/) (if you haven't)")
-        logger.info("     (2) Submit the prediction file ({}) **********".format(output_predictions_file))
-        logger.info("********** END **********")
+            #     json.dump(predictions, writer)
+
+            with open(output_predictions_file, "w") as writer:
+                for prediction in true_predictions:
+                    writer.write(" ".join(prediction) + "\n")
+        print("********** IMPORTANT: Obtaining ORCA Score on Test Instructions **********")
+        print("     (1) Create a new profile on  ORCA website (https://orca.dlnlp.ai/) (if you haven't)")
+        print("     (2) Submit the prediction file ({}) **********".format(output_predictions_file))
+        print("********** END **********")
     kwargs = {"finetuned_from": model_args.model_name_or_path, "tasks": "token-classification"}
     if data_args.dataset_name is not None:
         kwargs["dataset_tags"] = data_args.dataset_name
