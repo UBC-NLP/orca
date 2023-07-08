@@ -84,7 +84,7 @@ In this work, we introduce [**ORCA**](https://arxiv.org/abs/2212.10758), a publi
 |[Topic](https://aclanthology.org/2021.acl-long.551/)      |MSA      |  Macro F1 |       |    [(Abbas et al.,2011)](https://www.dline.info/fpaper/jdim/v9i5/1.pdf), [(Chouigui et al.,2017)](https://www.researchgate.net/publication/320871871_Poster_ANT_Corpus_An_Arabic_News_Text_Collection_for_Textual_Classification),  [(Saad, 2010)](http://site.iugaza.edu.ps/wp-content/uploads/mksaad-OSAC-OpenSourceArabicCorpora-EECS10-rev9(1).pdf). | 
 
 
-###  Word Sense Disambiguation (WSD)
+###  (7) Word Sense Disambiguation (WSD)
 |**Task**| **Variation**     | **Metric**   | **URL**    | **Bibtex**   |
 |---------|--------|--------|-------|------|
 |[Word Sense Disambiguation](https://www.mdpi.com/2076-3417/11/6/2567)     |MSA      |  Macro F1 |       |    [El-Razzaz, 2021](https://www.mdpi.com/2076-3417/11/6/2567) | 
