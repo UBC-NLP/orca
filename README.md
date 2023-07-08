@@ -1,6 +1,6 @@
 <p align="center">
     <br>
-    <img src="https://superarlue.dlnlp.ai/assets/superARLUE_logo.png" width="50%"/>
+    <img src"https://orca.dlnlp.ai/assets/orca_logo.png" width="50%"/>
     <br>
 <p>
 
