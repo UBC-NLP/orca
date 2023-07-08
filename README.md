@@ -36,11 +36,11 @@
 ###  (2) Question Answering (QA)
 |**Task**| **Variation**     | **Metric**   | **URL**    | **Bibtex**   |
 |---------|--------|--------|-------|------|
-|[ANS Stance](https://aclanthology.org/2020.fever-1.2/)      |MSA      |  Macro F1 |       |    [Khouja, 2020](x) | 
+|[Question Answering](https://aclanthology.org/2021.acl-long.551/)      |MSA      |  Macro F1 |       |    [Abdul-Mageed et al. , 2020]([x](https://scholar.googleusercontent.com/scholar.bib?q=info:uFWu72s_lGoJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gryx40:ABFrs3wAAAAAZKj0341kFthVkOGnDJC4ejq-vpc&scisig=ABFrs3wAAAAAZKj033a7zr7kd5xIyWs8qxvFs9E&scisf=4&ct=citation&cd=-1&hl=en)) | 
 
 
 ###  (3) Semantic Textual Similarity and and Paraphrase (STSP)
-|**Task**| **Variation **     | **Metric**   | **URL**    | **Bibtex**   |
+|**Task**| **Variation**     | **Metric**   | **URL**    | **Bibtex**   |
 |---------|--------|--------|-------|------|
 |[Emotion Regression](https://aclanthology.org/S18-1001/)      |MSA      | Superman Correlation|       |    [Khouja, 2020](x) | 
 |[MQ2Q](https://xxxx)     |MSA      |  Macro F1 |       |    [Balyet al., 2018](xx) | 
