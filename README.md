@@ -22,9 +22,14 @@
 <p> In this work, we introduce ORCA, a publicly available benchmark for Arabic language understanding evaluation. ORCA is carefully constructed to cover diverse Arabic varieties and a wide range of challenging Arabic understanding tasks exploiting 60 different datasets across seven NLU task clusters. To measure current progress in Arabic NLU, we use ORCA to offer a comprehensive comparison between 18 multilingual and Arabic language models.</p>
 
 
-# ORCA Tasks  
+# ORCA Task Cluster  
+##  Natural Language Inference (NLI)
+|**ANS Stance**| **Data  (#classes)**     | **TRAIN**   | **DEV**    | **TEST**   |
+|---------|--------|--------|-------|------|
+|[Alomari et al. (2017)](https://www.researchgate.net/publication/317501447_Arabic_Tweets_Sentimental_Analysis_Using_Machine_Learning)|AJGT (2)      |   1.4K | -      |    361 | 
+|[Abdul-Mageed et al. (2020b)](https://www.aclweb.org/anthology/2020.osact-1.3) |AraNET<sub>Sent</sub> (2)      | 100K | 14.3K | 11.8K |
 
-Add table here
+
 # How to use
 
 ## Install Requirments
