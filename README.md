@@ -23,11 +23,12 @@
 
 
 # ORCA Task Cluster  
-##  Natural Language Inference (NLI)
-|**ANS Stance**| **Data  (#classes)**     | **TRAIN**   | **DEV**    | **TEST**   |
+###  (1) Natural Language Inference (NLI)
+|**Task**| **Variation **     | **Metric**   | **URL**    | **Bibtex**   |
 |---------|--------|--------|-------|------|
-|[Alomari et al. (2017)](https://www.researchgate.net/publication/317501447_Arabic_Tweets_Sentimental_Analysis_Using_Machine_Learning)|AJGT (2)      |   1.4K | -      |    361 | 
-|[Abdul-Mageed et al. (2020b)](https://www.aclweb.org/anthology/2020.osact-1.3) |AraNET<sub>Sent</sub> (2)      | 100K | 14.3K | 11.8K |
+|[ANS Stance](https://aclanthology.org/2020.fever-1.2/)      |MSA      |  Macro F1 |       |    [(Khouja, 2020)](https://scholar.googleusercontent.com/scholar.bib?q=info:Dl2jkOr3b2IJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gr2mYs:ABFrs3wAAAAAZKjwgYvKUQTr12NsJBP89r72L4U&scisig=ABFrs3wAAAAAZKjwgZBGKXv4I0rJEEVCFoE1WQ0&scisf=4&ct=citation&cd=-1&hl=en) | 
+|[Baly Stance](https://aclanthology.org/N18-2004/)     |MSA      |  Macro F1 |       |    XX | 
+|[XLNI](https://github.com/facebookresearch/XNLI)            |MSA      |  Macro F1 |       |    XX | 
 
 
 # How to use
