@@ -73,15 +73,15 @@ In this work, we introduce [**ORCA**](https://arxiv.org/abs/2212.10758), a publi
 |**Task**| **Variation **     | **Metric**   | **URL**    | **Bibtex**   |
 |---------|--------|--------|-------|------|
 |[Aqmar NER](https://www.cs.cmu.edu/~ark/ArabicNER/)      |MSA      |  Macro F1 |       |    [Mohit, 2012](https://scholar.googleusercontent.com/scholar.bib?q=info:yAp4k3zwiUEJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gsH__s:ABFrs3wAAAAAZKkB5_vSGkF_RBbXEJ6jQtj1QLE&scisig=ABFrs3wAAAAAZKkB51R-dpSL59TX-7pfhBpllYY&scisf=4&ct=citation&cd=-1&hl=en) | 
-|[Arabic NER Corpus](https://aclanthology.org/N18-2004/](http://www.dsic.upv.es/~prosso/resources/BenajibaRosso_IICAI07.pdf)     |MSA      |  Macro F1 |       |    [Benajiba and Rosso, 2007](https://scholar.googleusercontent.com/scholar.bib?q=info:7lzaX3LgFm0J:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gsEZds:ABFrs3wAAAAAZKkCfdu54C_20sUBAs0qQl0T-MU&scisig=ABFrs3wAAAAAZKkCfRUtInM39LNKgqLZG7jAPs8&scisf=4&ct=citation&cd=-1&hl=en) | 
-|[Dialect Part Of Speech](https://aclanthology.org/L18-1015.pdf)            |DA      |  Macro F1 |       |    [Darwish et al., 2018](https://aclanthology.org/L18-1015.pdf)) | 
+|[Arabic NER Corpus](http://www.dsic.upv.es/~prosso/resources/BenajibaRosso_IICAI07.pdf)     |MSA      |  Macro F1 |       |    [Benajiba and Rosso, 2007](https://scholar.googleusercontent.com/scholar.bib?q=info:7lzaX3LgFm0J:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gsEZds:ABFrs3wAAAAAZKkCfdu54C_20sUBAs0qQl0T-MU&scisig=ABFrs3wAAAAAZKkCfRUtInM39LNKgqLZG7jAPs8&scisf=4&ct=citation&cd=-1&hl=en) | 
+|[Dialect Part Of Speech](https://aclanthology.org/L18-1015.pdf)            |DA      |  Macro F1 |       |    [Darwish et al., 2018](https://aclanthology.org/L18-1015.pdf) | 
 |[MSA Part Of Speech](https://arxiv.org/abs/2004.01401)            |MSA      |  Macro F1 |       |    [Liang et al., 2020](https://arxiv.org/abs/2004.01401) | 
-
+ 
 
 ###  (6) Topic Classification (TC)
-|**Task**| **Variation **     | **Metric**   | **URL**    | **Bibtex**   |
+|**Task**| **Variation**     | **Metric**   | **URL**    | **Bibtex**   |
 |---------|--------|--------|-------|------|
-|[Topic](https://aclanthology.org/2021.acl-long.551/)      |MSA      |  Macro F1 |       |    [Khouja, 2020](x) | 
+|[Topic](https://aclanthology.org/2021.acl-long.551/)      |MSA      |  Macro F1 |       |    [(Abbas et al.,2011)](https://www.dline.info/fpaper/jdim/v9i5/1.pdf), [(Chouigui et al.,2017)](https://www.researchgate.net/publication/320871871_Poster_ANT_Corpus_An_Arabic_News_Text_Collection_for_Textual_Classification),  [(Saad, 2010)](http://site.iugaza.edu.ps/wp-content/uploads/mksaad-OSAC-OpenSourceArabicCorpora-EECS10-rev9(1).pdf). | 
 
 
 ###  Word Sense Disambiguation (WSD)
