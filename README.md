@@ -51,16 +51,16 @@ In this work, we introduce [**ORCA**](https://arxiv.org/abs/2212.10758), a publi
 ###  (4) Sentence Classification (SC)
 |**Task**| **Variation**     | **Metric**   | **URL**    | **Bibtex**   |
 |---------|--------|--------|-------|------|
-|[Abusive](https://aclanthology.org/2020.fever-1.2/)      |DA      |  Macro F1 |       |    [Khouja, 2020](x) | 
-|[Adult](https://aclanthology.org/N18-2004/)     |DA      |  Macro F1 |       |    [Balyet al., 2018](xx) | 
-|[Age](https://github.com/facebookresearch/XNLI)            |DA      |  Macro F1 |       |    [Conneau et al., 2018](xxx) | 
-|[ANS Claim](https://aclanthology.org/2020.fever-1.2/)      |MSA      |  Macro F1 |       |    [Khouja, 2020](x) | 
-|[Dialect at Binary Level	](https://aclanthology.org/N18-2004/)     |DA      |  Macro F1 |       |    [Balyet al., 2018](xx) | 
-|[Dialect at Country Level](https://github.com/facebookresearch/XNLI)            |DA      |  Macro F1 |       |    [Conneau et al., 2018](xxx) | 
-|[Dialect at Region Level](https://github.com/facebookresearch/XNLI)            |DA      |  Macro F1 |       |    [Conneau et al., 2018](xxx) | 
-|[Emotion](https://aclanthology.org/N18-2004/)     |DA      |  Macro F1 |       |    [Balyet al., 2018](xx) | 
-|[Gender](https://github.com/facebookresearch/XNLI)            |DA      |  Macro F1 |       |    [Conneau et al., 2018](xxx) | 
-|[Hate Speech](https://github.com/facebookresearch/XNLI)            |DA      |  Macro F1 |       |    [Conneau et al., 2018](xxx) | 
+|[Abusive](https://aclanthology.org/W19-3512/)      |DA      |  Macro F1 |       |    [Mulki et al., 2019](https://scholar.googleusercontent.com/scholar.bib?q=info:rfEhXJdtqcgJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gr9Gog:ABFrs3wAAAAAZKj7Aog3zIXv0eE5S7vtBl-1IAM&scisig=ABFrs3wAAAAAZKj7AoxDWAq2kYzqlddJwFHHD1o&scisf=4&ct=citation&cd=-1&hl=en) | 
+|[Adult](https://aclanthology.org/2021.wanlp-1.14)     |DA      |  Macro F1 |       |    [Mubarak et al., 2021](https://scholar.googleusercontent.com/scholar.bib?q=info:-9T7luMQ9U0J:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gr9z_E:ABFrs3wAAAAAZKj71_GxiCVJWByCOEwYNhYOo80&scisig=ABFrs3wAAAAAZKj718edY9Y__adh_COzeQ7LqHM&scisf=4&ct=citation&cd=-1&hl=en)| 
+|[Age](https://www.aclweb.org/anthology/2020.osact-1.3)            |DA      |  Macro F1 |       |    [Abdul-Mageed et al., 2020a]( https://aclanthology.org/2020.osact-1.3/) | 
+|[ANS Claim](https://aclanthology.org/2020.fever-1.2/)     |MSA      |  Macro F1 |       |   [Khouja, 2020](https://scholar.googleusercontent.com/scholar.bib?q=info:Dl2jkOr3b2IJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gr2mYs:ABFrs3wAAAAAZKjwgYvKUQTr12NsJBP89r72L4U&scisig=ABFrs3wAAAAAZKjwgZBGKXv4I0rJEEVCFoE1WQ0&scisf=4&ct=citation&cd=-1&hl=en) | 
+|[Dialect at Binary Level	](https://aclanthology.org/N18-2004/)     |DA      |  Macro F1 |       |    [(Farha and Magdy, 2020)](xx), [(Zaidan and Callison-Burch, 2014)](xx), [(Abdul-Mageed et al., 2020b)](xx), [(Bouamor et al., 2019)](xx), [(Abdelaliet al., 2020)](xx), [(El-Haj, 2020)](xx). | 
+|[Dialect at Country Level](https://github.com/facebookresearch/XNLI)            |DA      |  Macro F1 |       |   [(Farha and Magdy, 2020)](xx), [(Zaidan and Callison-Burch, 2014)](xx), [(Abdul-Mageed et al., 2020b)](xx), [(Bouamor et al., 2019)](xx), [(Abdelaliet al., 2020)](xx), [(El-Haj, 2020)](xx). | 
+|[Dialect at Region Level](https://github.com/facebookresearch/XNLI)            |DA      |  Macro F1 |       |  [ (Farha and Magdy, 2020)](xx), [(Zaidan and Callison-Burch, 2014)](xx), [(Abdul-Mageed et al., 2020b)](xx), [(Bouamor et al., 2019)](xx), [(Abdelaliet al., 2020)](xx), [(El-Haj, 2020)](xx). | 
+|[Emotion](https://www.aclweb.org/anthology/2020.osact-1.3)            |DA      |  Macro F1 |       |    [Abdul-Mageed et al., 2020]( https://aclanthology.org/2020.osact-1.3/) | 
+|[Gender](https://www.aclweb.org/anthology/2020.osact-1.3)            |DA      |  Macro F1 |       |    [Abdul-Mageed et al., 2020]( https://aclanthology.org/2020.osact-1.3/) | 
+|[Hate Speech](https://www.aclweb.org/anthology/2020.osact-1.7)            |DA      |  Macro F1 |       |    [Mubarak et al., 2020](https://www.aclweb.org/anthology/2020.osact-1.7)| 
 |[Irony](https://aclanthology.org/N18-2004/)     |DA      |  Macro F1 |       |    [Balyet al., 2018](xx) | 
 |[Machine Generation](https://github.com/facebookresearch/XNLI)            |MSA      |  Macro F1 |       |    [Conneau et al., 2018](xxx) | 
 |[Offensive](https://github.com/facebookresearch/XNLI)            |DA      |  Macro F1 |       |    [Conneau et al., 2018](xxx) | 
