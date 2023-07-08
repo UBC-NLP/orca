@@ -3,7 +3,7 @@
 
 <p align="center">
     <br>
-    <img src="https://orca.dlnlp.ai/assets/orca_logo.png" width="50%"/>
+    <img src="https://orca.dlnlp.ai/assets/orca_logo.png" width="55%"/>
     <br>
 <p>
 
@@ -22,7 +22,7 @@
 
 </p>
  
-<p> In this work, we introduce ORCA, a publicly available benchmark for Arabic language understanding evaluation. ORCA is carefully constructed to cover diverse Arabic varieties and a wide range of challenging Arabic understanding tasks exploiting 60 different datasets across seven NLU task clusters. To measure current progress in Arabic NLU, we use ORCA to offer a comprehensive comparison between 18 multilingual and Arabic language models.</p>
+In this work, we introduce [**ORCA**](https://arxiv.org/abs/2212.10758), a publicly available benchmark for Arabic language understanding evaluation. ORCA is carefully constructed to cover diverse Arabic varieties and a wide range of challenging Arabic understanding tasks exploiting 60 different datasets across seven NLU task clusters. To measure current progress in Arabic NLU, we use ORCA to offer a comprehensive comparison between 18 multilingual and Arabic language models.
 
 
 # ORCA Task Cluster  
