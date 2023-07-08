@@ -19,8 +19,7 @@
 
 </p>
  
-<p>Over the last few years, several pre-trained language models and transfer learning techniques have been proposed and led to a significant performance improvement across various natural language understanding (NLU) tasks. Although several NLU benchmark models have been introduced in order to evaluate the effectiveness of such pre-trained models and techniques. <br>
-<b>ORCA</b> is a large-scale ARabic Language Understanding and Evaluation benchmark styled after ARLUE (AbdulMageed et al., 2021) with a new set of publicly available NLU tasks and datasets. It's composed of 60 publicly available datasets and covers seven NLU task clusters. Moreover, we provide a deep comprehensive comparison of the performance of all recently released Arabic pre-trained language models on <b>ORCA</b>  benchmark. </p>
+<p>Due to their crucial role in all NLP, several benchmarks have been proposed to evaluate pretrained language models. In spite of these efforts, no public benchmark of diverse nature currently exists for evaluation of Arabic. This makes it challenging to measure progress for both Arabic and multilingual language models. This challenge is compounded by the fact that any benchmark targeting Arabic needs to take into account the fact that Arabic is not a single language but rather a collection of languages and varieties. In this work, we introduce ORCA, a publicly available benchmark for Arabic language understanding evaluation. ORCA is carefully constructed to cover diverse Arabic varieties and a wide range of challenging Arabic understanding tasks exploiting 60 different datasets across seven NLU task clusters. To measure current progress in Arabic NLU, we use ORCA to offer a comprehensive comparison between 18 multilingual and Arabic language models.</p>
   
 # How to use
 
