@@ -36,13 +36,13 @@
 ###  (2) Question Answering (QA)
 |**Task**| **Variation**     | **Metric**   | **URL**    | **Bibtex**   |
 |---------|--------|--------|-------|------|
-|[Question Answering](https://aclanthology.org/2021.acl-long.551/)      |MSA      |  Macro F1 |       |    [Abdul-Mageed et al. , 2020]([x](https://scholar.googleusercontent.com/scholar.bib?q=info:uFWu72s_lGoJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gryx40:ABFrs3wAAAAAZKj0341kFthVkOGnDJC4ejq-vpc&scisig=ABFrs3wAAAAAZKj033a7zr7kd5xIyWs8qxvFs9E&scisf=4&ct=citation&cd=-1&hl=en)) | 
+|[Question Answering](https://aclanthology.org/2021.acl-long.551/)      |MSA      |  Macro F1 |       |    [Abdul-Mageed et al., 2020](https://scholar.googleusercontent.com/scholar.bib?q=info:uFWu72s_lGoJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gryx40:ABFrs3wAAAAAZKj0341kFthVkOGnDJC4ejq-vpc&scisig=ABFrs3wAAAAAZKj033a7zr7kd5xIyWs8qxvFs9E&scisf=4&ct=citation&cd=-1&hl=en) | 
 
 
 ###  (3) Semantic Textual Similarity and and Paraphrase (STSP)
 |**Task**| **Variation**     | **Metric**   | **URL**    | **Bibtex**   |
 |---------|--------|--------|-------|------|
-|[Emotion Regression](https://aclanthology.org/S18-1001/)      |MSA      | Superman Correlation|       |    [Khouja, 2020](x) | 
+|[Emotion Regression](https://aclanthology.org/S18-1001/)      |MSA      | Superman Correlation|       |    [Saif et al., 2018](https://scholar.googleusercontent.com/scholar.bib?q=info:-uBntHMpkRkJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8grzPbw:ABFrs3wAAAAAZKj1Jbyn0EIiXCipEq7rEqfpqYA&scisig=ABFrs3wAAAAAZKj1JQRX3fWvweGm8JjI13PDNow&scisf=4&ct=citation&cd=-1&hl=en) | 
 |[MQ2Q](https://xxxx)     |MSA      |  Macro F1 |       |    [Balyet al., 2018](xx) | 
 |[STS](https://aclanthology.org/S17-2001/)            |MSA      |  Macro F1 |       |    [Conneau et al., 2018](xxx) | 
 
