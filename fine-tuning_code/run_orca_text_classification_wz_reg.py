@@ -565,10 +565,10 @@ def main():
                         else:
                             item = label_list[item]
                             writer.write(f"{item}\n")
-            logger.info("********** IMPORTANT: Obtaining Score on Test Instructions **********")
-            logger.info("     (1) Create a new profile on  super-ARLUE website (https://superarlue.dlnlp.ai/) (if you haven't)")
-            logger.info("     (2) Submit the prediction file ({}) **********".format(output_predict_file))
-            logger.info("********** END **********")
+            print("********** IMPORTANT: Obtaining Score on Test Instructions **********")
+            print("     (1) Create a new profile on  super-ARLUE website (https://superarlue.dlnlp.ai/) (if you haven't)")
+            print("     (2) Submit the prediction file ({}) **********".format(output_predict_file))
+            print("********** END **********")
 
     # kwargs = {"finetuned_from": model_args.model_name_or_path, "tasks": "text-classification"}
     # if data_args.task_name is not None:
