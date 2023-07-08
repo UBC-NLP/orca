@@ -43,8 +43,8 @@
 |**Task**| **Variation**     | **Metric**   | **URL**    | **Bibtex**   |
 |---------|--------|--------|-------|------|
 |[Emotion Regression](https://aclanthology.org/S18-1001/)      |MSA      | Superman Correlation|       |    [Saif et al., 2018](https://scholar.googleusercontent.com/scholar.bib?q=info:-uBntHMpkRkJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8grzPbw:ABFrs3wAAAAAZKj1Jbyn0EIiXCipEq7rEqfpqYA&scisig=ABFrs3wAAAAAZKj1JQRX3fWvweGm8JjI13PDNow&scisf=4&ct=citation&cd=-1&hl=en) | 
-|[MQ2Q](https://xxxx)     |MSA      |  Macro F1 |       |    [Balyet al., 2018](xx) | 
-|[STS](https://aclanthology.org/S17-2001/)            |MSA      |  Macro F1 |       |    [Conneau et al., 2018](xxx) | 
+|[MQ2Q](https://aclanthology.org/2019.nsurl-1.1)     |MSA      |  Macro F1 |       |    [Seelawi al., 2019](https://scholar.googleusercontent.com/scholar.bib?q=info:qfTkZzI_lQ4J:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8grwP7w:ABFrs3wAAAAAZKj2J7w82mvzxbjso-nscARRjsY&scisig=ABFrs3wAAAAAZKj2J5Tle8i7Ky-IW3B4B4IRDxo&scisf=4&ct=citation&cd=-1&hl=en) | 
+|[STS](https://aclanthology.org/S17-2001/)            |MSA      |  Macro F1 |       |    [Cer et al., 2017](https://scholar.googleusercontent.com/scholar.bib?q=info:Sa2jq4YiCs4J:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8grwTkg:ABFrs3wAAAAAZKj2Vkgj0LxgPCeJOzGZH5UUOxs&scisig=ABFrs3wAAAAAZKj2ViLdnSzljs_rRxxPVsQRNKs&scisf=4&ct=citation&cd=-1&hl=en) | 
 
 
 
