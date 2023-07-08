@@ -55,16 +55,16 @@ In this work, we introduce [**ORCA**](https://arxiv.org/abs/2212.10758), a publi
 |[Adult](https://aclanthology.org/2021.wanlp-1.14)     |DA      |  Macro F1 |       |    [Mubarak et al., 2021](https://scholar.googleusercontent.com/scholar.bib?q=info:-9T7luMQ9U0J:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gr9z_E:ABFrs3wAAAAAZKj71_GxiCVJWByCOEwYNhYOo80&scisig=ABFrs3wAAAAAZKj718edY9Y__adh_COzeQ7LqHM&scisf=4&ct=citation&cd=-1&hl=en)| 
 |[Age](https://www.aclweb.org/anthology/2020.osact-1.3)            |DA      |  Macro F1 |       |    [Abdul-Mageed et al., 2020b]( https://aclanthology.org/2020.osact-1.3/) | 
 |[ANS Claim](https://aclanthology.org/2020.fever-1.2/)     |MSA      |  Macro F1 |       |   [Khouja, 2020](https://scholar.googleusercontent.com/scholar.bib?q=info:Dl2jkOr3b2IJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gr2mYs:ABFrs3wAAAAAZKjwgYvKUQTr12NsJBP89r72L4U&scisig=ABFrs3wAAAAAZKjwgZBGKXv4I0rJEEVCFoE1WQ0&scisf=4&ct=citation&cd=-1&hl=en) | 
-|[Dialect Binary	](https://aclanthology.org/N18-2004/)     |DA      |  Macro F1 |       |    [(Farha and Magdy, 2020)](https://aclanthology.org/2020.osact-1.5/), [(Zaidan and Callison-Burch, 2014)](xx), [(Abdul-Mageed et al., 2020c)](xx), [(Bouamor et al., 2019)](xx), [(Abdelaliet al., 2020)](xx), [(El-Haj, 2020)](xx). | 
-|[Dialect Country](https://github.com/facebookresearch/XNLI)            |DA      |  Macro F1 |       |   [(Farha and Magdy, 2020)](https://aclanthology.org/2020.osact-1.5/), [(Zaidan and Callison-Burch, 2014)](xx), [(Abdul-Mageed et al., 2020c)](xx), [(Bouamor et al., 2019)](xx), [(Abdelaliet al., 2020)](xx), [(El-Haj, 2020)](xx). | 
-|[Dialect Region](https://github.com/facebookresearch/XNLI)            |DA      |  Macro F1 |       |  [ (Farha and Magdy, 2020)](https://aclanthology.org/2020.osact-1.5/), [(Zaidan and Callison-Burch, 2014)](xx), [(Abdul-Mageed et al., 2020c)](xx), [(Bouamor et al., 2019)](xx), [(Abdelaliet al., 2020)](xx), [(El-Haj, 2020)](xx). | 
+|[Dialect Binary	](https://aclanthology.org/N18-2004/)     |DA      |  Macro F1 |       |    [(Farha, 2020)](https://aclanthology.org/2020.osact-1.5/), [(Zaidan, 2014)](xx), [(Abdul-Mageed et al., 2020c)](xx), [(Bouamor et al., 2019)](xx), [(Abdelaliet al., 2020)](xx), [(El-Haj, 2020)](xx). | 
+|[Dialect Country](https://github.com/facebookresearch/XNLI)            |DA      |  Macro F1 |       |   [(Farha, 2020)](https://aclanthology.org/2020.osact-1.5/), [(Zaidan, 2014)](xx), [(Abdul-Mageed et al., 2020c)](xx), [(Bouamor et al., 2019)](xx), [(Abdelaliet al., 2020)](xx), [(El-Haj, 2020)](xx). | 
+|[Dialect Region](https://github.com/facebookresearch/XNLI)            |DA      |  Macro F1 |       | [(Farha, 2020)](https://aclanthology.org/2020.osact-1.5/), [(Zaidan, 2014)](xx), [(Abdul-Mageed et al., 2020c)](xx), [(Bouamor et al., 2019)](xx), [(Abdelaliet al., 2020)](xx), [(El-Haj, 2020)](xx). | 
 |[Emotion](https://www.aclweb.org/anthology/2020.osact-1.3)            |DA      |  Macro F1 |       |    [Abdul-Mageed et al., 2020b]( https://aclanthology.org/2020.osact-1.3/) | 
 |[Gender](https://www.aclweb.org/anthology/2020.osact-1.3)            |DA      |  Macro F1 |       |    [Abdul-Mageed et al., 2020b]( https://aclanthology.org/2020.osact-1.3/) | 
 |[Hate Speech](https://www.aclweb.org/anthology/2020.osact-1.7)            |DA      |  Macro F1 |       |    [Mubarak et al., 2020](https://www.aclweb.org/anthology/2020.osact-1.7)| 
 |[Irony](https://dl.acm.org/doi/10.1145/3368567.3368585)     |DA      |  Macro F1 |       |    [Ghanem al., 2019](https://dl.acm.org/doi/10.1145/3368567.3368585) | 
 |[Machine Generation](https://aclanthology.org/2020.wanlp-1.7/)            |MSA      |  Macro F1 |       |    [Nagoudi et al., 2020](https://aclanthology.org/2020.wanlp-1.7/) | 
 |[Offensive](https://aclanthology.org/2020.osact-1.8/)            |DA      |  Macro F1 |       |    [Mubarak et al., 2020](https://www.aclweb.org/anthology/2020.osact-1.7)| 
-|[Sarcasm](https://aclanthology.org/N18-2004/)     |DA      |  Macro F1 |       |    [(Farha and Magdy, 2020](https://aclanthology.org/2020.osact-1.5/) | 
+|[Sarcasm](https://aclanthology.org/N18-2004/)     |DA      |  Macro F1 |       |    [Farha and Magdy, 2020](https://aclanthology.org/2020.osact-1.5/) | 
 |[Sentiment Analysis](https://aclanthology.org/2021.acl-long.551/)         |DA      |  Macro F1 |       |    [Abdul-Mageed et al., 2020c](https://aclanthology.org/2021.acl-long.551/) | 
 
 
@@ -72,10 +72,10 @@ In this work, we introduce [**ORCA**](https://arxiv.org/abs/2212.10758), a publi
 ###  (5) Structure Predictions (SP)
 |**Task**| **Variation **     | **Metric**   | **URL**    | **Bibtex**   |
 |---------|--------|--------|-------|------|
-|[Aqmar NER](https://aclanthology.org/2020.fever-1.2/)      |MSA      |  Macro F1 |       |    [Khouja, 2020](x) | 
-|[Arabic NER Corpus](https://aclanthology.org/N18-2004/)     |MSA      |  Macro F1 |       |    [Balyet al., 2018](xx) | 
-|[Dialect Part Of Speech](https://github.com/facebookresearch/XNLI)            |DA      |  Macro F1 |       |    [Conneau et al., 2018](xxx) | 
-|[MSA Part Of Speech](https://github.com/facebookresearch/XNLI)            |MSA      |  Macro F1 |       |    [Conneau et al., 2018](xxx) | 
+|[Aqmar NER](https://www.cs.cmu.edu/~ark/ArabicNER/)      |MSA      |  Macro F1 |       |    [Mohit, 2012](https://scholar.googleusercontent.com/scholar.bib?q=info:yAp4k3zwiUEJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gsH__s:ABFrs3wAAAAAZKkB5_vSGkF_RBbXEJ6jQtj1QLE&scisig=ABFrs3wAAAAAZKkB51R-dpSL59TX-7pfhBpllYY&scisf=4&ct=citation&cd=-1&hl=en) | 
+|[Arabic NER Corpus](https://aclanthology.org/N18-2004/](http://www.dsic.upv.es/~prosso/resources/BenajibaRosso_IICAI07.pdf)     |MSA      |  Macro F1 |       |    [Benajiba and Rosso, 2007](https://scholar.googleusercontent.com/scholar.bib?q=info:7lzaX3LgFm0J:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gsEZds:ABFrs3wAAAAAZKkCfdu54C_20sUBAs0qQl0T-MU&scisig=ABFrs3wAAAAAZKkCfRUtInM39LNKgqLZG7jAPs8&scisf=4&ct=citation&cd=-1&hl=en) | 
+|[Dialect Part Of Speech](https://aclanthology.org/L18-1015.pdf)            |DA      |  Macro F1 |       |    [Darwish et al., 2018](https://aclanthology.org/L18-1015.pdf)) | 
+|[MSA Part Of Speech](https://arxiv.org/abs/2004.01401)            |MSA      |  Macro F1 |       |    [Liang et al., 2020](https://arxiv.org/abs/2004.01401) | 
 
 
 ###  (6) Topic Classification (TC)
