@@ -116,18 +116,17 @@ You can evalute your models using **ORCA** leaderboard: **[https://orca.dlnlp.ai
 If you use ORCA for your scientific publication, or if you find the resources in this repository useful, please cite our paper as follows (to be updated):
 ```
 @inproceedings{elmadany-etal-2023-orca,
-    title = "{ORCA}: A Challenging Benchmark for {A}rabic Language Understanding",
-    author = "Elmadany, AbdelRahim  and
-      Nagoudi, ElMoatez Billah  and
-      Abdul-Mageed, Muhammad",
-    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
-    month = jul,
-    year = "2023",
-    address = "Toronto, Canada",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2023.findings-acl.609",
-    pages = "9559--9586",
-}
+              title = "{ORCA}: A Challenging Benchmark for {A}rabic Language Understanding",
+              author = "Elmadany, AbdelRahim  and Nagoudi, ElMoatez Billah  and Abdul-Mageed, Muhammad",
+              booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+              month = jul,
+              year = "2023",
+              address = "Toronto, Canada",
+              publisher = "Association for Computational Linguistics",
+              url = "https://aclanthology.org/2023.findings-acl.609",
+              pages = "9559--9586",
+              
+            }
 
 ```
 
