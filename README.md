@@ -24,7 +24,7 @@
 In this work, we introduce [**ORCA**](https://arxiv.org/abs/2212.10758), a publicly available benchmark for Arabic language understanding evaluation. ORCA is carefully constructed to cover diverse Arabic varieties and a wide range of challenging Arabic understanding tasks exploiting 60 different datasets across seven NLU task clusters. To measure current progress in Arabic NLU, we use ORCA to offer a comprehensive comparison between 18 multilingual and Arabic language models.
 
 
-# ORCA's Task Cluster  
+# ORCA's Task Clusters  
 We arrange [**ORCA**](https://arxiv.org/abs/2212.10758), into seven NLU task clusters. These are (1) sentence classification, (2) structured prediction (3) semantic textual similarity and paraphrase, (4) text classification, (5) natural language inference, (6) word sense disambiguation, and (7) question answering.
 
 
