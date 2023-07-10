@@ -94,7 +94,7 @@ We arrange [**ORCA**](https://arxiv.org/abs/2212.10758), into seven NLU task clu
 |[Word Sense Disambiguation](https://www.mdpi.com/2076-3417/11/6/2567)     |MSA      |  Macro F1 |    [(El-Razzaz, 2021)](https://www.mdpi.com/2076-3417/11/6/2567) | 
 
 
-# How to use ORCA
+# How to Use ORCA
 
 ### Install Requirments
 ```shell
