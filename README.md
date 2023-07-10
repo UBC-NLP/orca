@@ -74,8 +74,8 @@ We arrange [**ORCA**](https://arxiv.org/abs/2212.10758), into seven NLU task clu
 ###  (5) Structure Predictions (SP)
 |**Task**| **Variation**     | **Metric**   | **Reference**   |
 |---------|--------|--------|-------|
-|[Aqmar NER](https://www.cs.cmu.edu/~ark/ArabicNER/)      |MSA      |  Macro F1 |    [(Mohit, 2012)](https://scholar.googleusercontent.com/scholar.bib?q=info:yAp4k3zwiUEJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gsH__s:ABFrs3wAAAAAZKkB5_vSGkF_RBbXEJ6jQtj1QLE&scisig=ABFrs3wAAAAAZKkB51R-dpSL59TX-7pfhBpllYY&scisf=4&ct=citation&cd=-1&hl=en) | 
-|[Arabic NER Corpus](http://www.dsic.upv.es/~prosso/resources/BenajibaRosso_IICAI07.pdf)     |MSA      |  Macro F1 |    [(Benajiba and Rosso, 2007)](https://scholar.googleusercontent.com/scholar.bib?q=info:7lzaX3LgFm0J:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gsEZds:ABFrs3wAAAAAZKkCfdu54C_20sUBAs0qQl0T-MU&scisig=ABFrs3wAAAAAZKkCfRUtInM39LNKgqLZG7jAPs8&scisf=4&ct=citation&cd=-1&hl=en) | 
+|[Aqmar NER](https://www.cs.cmu.edu/~ark/ArabicNER/)      |MSA      |  Macro F1 |    [(Mohit, 2012)](https://www.cs.cmu.edu/~ark/ArabicNER/)  | 
+|[Arabic NER Corpus](http://www.dsic.upv.es/~prosso/resources/BenajibaRosso_IICAI07.pdf)     |MSA      |  Macro F1 |    [(Benajiba and Rosso, 2007)](http://www.dsic.upv.es/~prosso/resources/BenajibaRosso_IICAI07.pdf)  | 
 |[Dialect Part Of Speech](https://aclanthology.org/L18-1015.pdf)            |DA      |  Macro F1 |    [(Darwish et al., 2018)](https://aclanthology.org/L18-1015.pdf) | 
 |[MSA Part Of Speech](https://arxiv.org/abs/2004.01401)            |MSA      |  Macro F1 |    [(Liang et al., 2020)](https://arxiv.org/abs/2004.01401) | 
  
