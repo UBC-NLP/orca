@@ -564,8 +564,8 @@ def main():
                         else:
                             item = label_list[item]
                             writer.write(f"{item}\n")
-            print("********** IMPORTANT: Obtaining Score on Test Instructions **********")
-            print("     (1) Create a new profile on  super-ARLUE website (https://superarlue.dlnlp.ai/) (if you haven't)")
+            print("********** IMPORTANT: Obtaining ORCA Score on Test Instructions **********")
+            print("     (1) Create a new profile on  ORCA website (https://orca.dlnlp.ai/) (if you haven't)")
             print("     (2) Submit the prediction file ({}) **********".format(output_predict_file))
             print("********** END **********")
 
