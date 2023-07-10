@@ -630,8 +630,8 @@ def main():
             json.dump(predictions, writer)
             # for index, item in enumerate(predictions):
             #      writer.write(f"{item}\n")
-        logger.info("********** IMPORTANT: Obtaining Score on Test Instructions **********")
-        logger.info("     (1) Create a new profile on  super-ARLUE website (https://superarlue.dlnlp.ai/) (if you haven't)")
+        logger.info("********** IMPORTANT: Obtaining ORCA Score on Test Instructions **********")
+        logger.info("     (1) Create a new profile on  ORCA website (https://orca.dlnlp.ai/) (if you haven't)")
         logger.info("     (2) Submit the prediction file ({}) **********".format(output_predict_file))
         logger.info("********** END **********")
     kwargs = {"finetuned_from": model_args.model_name_or_path, "tasks": "question-answering"}
