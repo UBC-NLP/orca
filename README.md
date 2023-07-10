@@ -29,24 +29,24 @@ We arrange [**ORCA**](https://arxiv.org/abs/2212.10758), into seven NLU task clu
 
 
 ###  (1) Natural Language Inference (NLI)
-|**Task**| **Variation**     | **Metric**   | **Bibtex**   |
+|**Task**| **Variation**     | **Metric**   | **Reference**   |
 |---------|--------|--------|------|
-|[ANS Stance](https://aclanthology.org/2020.fever-1.2/)      |MSA      |  Macro F1 |    [(Khouja, 2020)](https://scholar.googleusercontent.com/scholar.bib?q=info:Dl2jkOr3b2IJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gr2mYs:ABFrs3wAAAAAZKjwgYvKUQTr12NsJBP89r72L4U&scisig=ABFrs3wAAAAAZKjwgZBGKXv4I0rJEEVCFoE1WQ0&scisf=4&ct=citation&cd=-1&hl=en) | 
-|[Baly Stance](https://aclanthology.org/N18-2004/)     |MSA      |  Macro F1 |    [(Balyet al., 2018)](https://scholar.googleusercontent.com/scholar.bib?q=info:WDtKxc5WLi4J:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gr3PKc:ABFrs3wAAAAAZKjxJKftaQjEZEhOeQIkitiavGk&scisig=ABFrs3wAAAAAZKjxJFSQMJ2SNRGmYSqVZJAa_TY&scisf=4&ct=citation&cd=-1&hl=en) | 
-|[XLNI](https://github.com/facebookresearch/XNLI)            |MSA      |  Macro F1 |    [(Conneau et al., 2018)](https://scholar.googleusercontent.com/scholar.bib?q=info:dwBo6WQBvtAJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gr3fS0:ABFrs3wAAAAAZKjxZS3vB-TBD3C6uNciU5h8W2k&scisig=ABFrs3wAAAAAZKjxZbTeiO54_fLShkIoYea-zg4&scisf=4&ct=citation&cd=-1&hl=en) | 
+|[ANS Stance](https://aclanthology.org/2020.fever-1.2/)      |MSA      |  Macro F1 |    [(Khouja, 2020)](https://aclanthology.org/2020.fever-1.2/)  | 
+|[Baly Stance](https://aclanthology.org/N18-2004/)     |MSA      |  Macro F1 |    [(Balyet al., 2018)](https://aclanthology.org/N18-2004/) | 
+|[XLNI](https://github.com/facebookresearch/XNLI)            |MSA      |  Macro F1 |    [(Conneau et al., 2018)](https://github.com/facebookresearch/XNLI)| 
 
 ###  (2) Question Answering (QA)
 |**Task**| **Variation**     | **Metric**   | **Bibtex**   |
 |---------|--------|--------|------|
-|[Question Answering](https://aclanthology.org/2021.acl-long.551/)      |MSA      |  Macro F1 |    [(Abdul-Mageed et al., 2020a)](https://scholar.googleusercontent.com/scholar.bib?q=info:uFWu72s_lGoJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gryx40:ABFrs3wAAAAAZKj0341kFthVkOGnDJC4ejq-vpc&scisig=ABFrs3wAAAAAZKj033a7zr7kd5xIyWs8qxvFs9E&scisf=4&ct=citation&cd=-1&hl=en) | 
+|[Question Answering](https://aclanthology.org/2021.acl-long.551/)      |MSA      |  Macro F1 |    [(Abdul-Mageed et al., 2020a)](https://aclanthology.org/2021.acl-long.551/) | 
 
 
-###  (3) Semantic Textual Similarity and and Paraphrase (STSP)
+###  (3) Semantic Textual Similarity and  Paraphrase (STSP)
 |**Task**| **Variation**     | **Metric**   | **Bibtex**   |
 |---------|--------|--------|-------|
-|[Emotion Regression](https://aclanthology.org/S18-1001/)      |MSA      | Superman Correlation|    [(Saif et al., 2018)](https://scholar.googleusercontent.com/scholar.bib?q=info:-uBntHMpkRkJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8grzPbw:ABFrs3wAAAAAZKj1Jbyn0EIiXCipEq7rEqfpqYA&scisig=ABFrs3wAAAAAZKj1JQRX3fWvweGm8JjI13PDNow&scisf=4&ct=citation&cd=-1&hl=en) | 
-|[MQ2Q](https://aclanthology.org/2019.nsurl-1.1)     |MSA      |  Macro F1 |    [(Seelawi al., 2019)](https://scholar.googleusercontent.com/scholar.bib?q=info:qfTkZzI_lQ4J:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8grwP7w:ABFrs3wAAAAAZKj2J7w82mvzxbjso-nscARRjsY&scisig=ABFrs3wAAAAAZKj2J5Tle8i7Ky-IW3B4B4IRDxo&scisf=4&ct=citation&cd=-1&hl=en) | 
-|[STS](https://aclanthology.org/S17-2001/)            |MSA      |  Macro F1 |    [(Cer et al., 2017)](https://scholar.googleusercontent.com/scholar.bib?q=info:Sa2jq4YiCs4J:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8grwTkg:ABFrs3wAAAAAZKj2Vkgj0LxgPCeJOzGZH5UUOxs&scisig=ABFrs3wAAAAAZKj2ViLdnSzljs_rRxxPVsQRNKs&scisf=4&ct=citation&cd=-1&hl=en) | 
+|[Emotion Regression](https://aclanthology.org/S18-1001/)      |MSA      | Superman Correlation|    [(Saif et al., 2018)](https://aclanthology.org/S18-1001/)  | 
+|[MQ2Q](https://aclanthology.org/2019.nsurl-1.1)     |MSA      |  Macro F1 |    [(Seelawi al., 2019)](https://aclanthology.org/2019.nsurl-1.1)   | 
+|[STS](https://aclanthology.org/S17-2001/)            |MSA      |  Macro F1 |    [(Cer et al., 2017)](https://aclanthology.org/S17-2001/)  | 
 
 
 
