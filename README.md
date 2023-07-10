@@ -115,7 +115,7 @@ You can evalute your models using **ORCA** leaderboard: **[https://orca.dlnlp.ai
 ## Citation
 If you use ORCA for your scientific publication, or if you find the resources in this repository useful, please cite our paper as follows (to be updated):
 ```
-@article{@inproceedings{elmadany-etal-2023-orca,
+@inproceedings{elmadany-etal-2023-orca,
     title = "{ORCA}: A Challenging Benchmark for {A}rabic Language Understanding",
     author = "Elmadany, AbdelRahim  and
       Nagoudi, ElMoatez Billah  and
