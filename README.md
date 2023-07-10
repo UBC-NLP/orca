@@ -57,7 +57,8 @@ We arrange [**ORCA**](https://arxiv.org/abs/2212.10758), into seven NLU task clu
 |[Adult](https://aclanthology.org/2021.wanlp-1.14)     |DA      |  Macro F1 |    [(Mubarak et al., 2021)](https://aclanthology.org/2021.wanlp-1.14)  | 
 |[Age](https://www.aclweb.org/anthology/2020.osact-1.3)            |DA      |  Macro F1 |    [(Abdul-Mageed et al., 2020b)]( https://aclanthology.org/2020.osact-1.3/) | 
 |[ANS Claim](https://aclanthology.org/2020.fever-1.2/)     |MSA      |  Macro F1 |   [(Khouja, 2020)](https://aclanthology.org/2020.fever-1.2/)   | 
-|[Dialect Binary	](https://aclanthology.org/N18-2004/)     |DA      |  Macro F1 |    [(Farha, 2020)](https://aclanthology.org/2020.osact-1.5/), [(Zaidan, 2014)](xx), [(Abdul-Mageed et al., 2020c)](xx), [(Bouamor et al., 2019)](xx), [(Abdelaliet al., 2020)](xx), [(El-Haj, 2020)](xx). | 
+|[ANS Claim](https://aclanthology.org/2020.fever-1.2/)     |MSA      |  Macro F1 |   [(Khouja, 2020)](https://aclanthology.org/2020.fever-1.2/)   | 
+|[Dangerous	](https://aclanthology.org/N18-2004/)     |DA      |  Macro F1 |    [(Alshehri et al., 2020)](https://www.aclweb.org/anthology/2020.osact-1.6)| 
 |[Dialect Country](https://github.com/facebookresearch/XNLI)            |DA      |  Macro F1 |   [(Farha, 2020)](https://aclanthology.org/2020.osact-1.5/), [(Zaidan, 2014)](xx), [(Abdul-Mageed et al., 2020c)](xx), [(Bouamor et al., 2019)](xx), [(Abdelaliet al., 2020)](xx), [(El-Haj, 2020)](xx). | 
 |[Dialect Region](https://github.com/facebookresearch/XNLI)            |DA      |  Macro F1 | [(Farha, 2020)](https://aclanthology.org/2020.osact-1.5/), [(Zaidan, 2014)](xx), [(Abdul-Mageed et al., 2020c)](xx), [(Bouamor et al., 2019)](xx), [(Abdelaliet al., 2020)](xx), [(El-Haj, 2020)](xx). | 
 |[Emotion](https://www.aclweb.org/anthology/2020.osact-1.3)            |DA      |  Macro F1 |    [(Abdul-Mageed et al., 2020b)]( https://aclanthology.org/2020.osact-1.3/) | 
