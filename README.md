@@ -36,13 +36,13 @@ We arrange [**ORCA**](https://arxiv.org/abs/2212.10758), into seven NLU task clu
 |[XLNI](https://github.com/facebookresearch/XNLI)            |MSA      |  Macro F1 |    [(Conneau et al., 2018)](https://github.com/facebookresearch/XNLI)| 
 
 ###  (2) Question Answering (QA)
-|**Task**| **Variation**     | **Metric**   | **Bibtex**   |
+|**Task**| **Variation**     | **Metric**   | **Reference**   |
 |---------|--------|--------|------|
 |[Question Answering](https://aclanthology.org/2021.acl-long.551/)      |MSA      |  Macro F1 |    [(Abdul-Mageed et al., 2020a)](https://aclanthology.org/2021.acl-long.551/) | 
 
 
 ###  (3) Semantic Textual Similarity and  Paraphrase (STSP)
-|**Task**| **Variation**     | **Metric**   | **Bibtex**   |
+|**Task**| **Variation**     | **Metric**   | **Reference**   |
 |---------|--------|--------|-------|
 |[Emotion Regression](https://aclanthology.org/S18-1001/)      |MSA      | Superman Correlation|    [(Saif et al., 2018)](https://aclanthology.org/S18-1001/)  | 
 |[MQ2Q](https://aclanthology.org/2019.nsurl-1.1)     |MSA      |  Macro F1 |    [(Seelawi al., 2019)](https://aclanthology.org/2019.nsurl-1.1)   | 
@@ -51,12 +51,12 @@ We arrange [**ORCA**](https://arxiv.org/abs/2212.10758), into seven NLU task clu
 
 
 ### (4) Sentence Classification (SC)
-|**Task**| **Variation**     | **Metric**   | **Bibtex**   |
+|**Task**| **Variation**     | **Metric**   | **Reference**   |
 |---------|--------|--------|-------|
-|[Abusive](https://aclanthology.org/W19-3512/)      |DA      |  Macro F1 |    [(Mulki et al., 2019)](https://scholar.googleusercontent.com/scholar.bib?q=info:rfEhXJdtqcgJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gr9Gog:ABFrs3wAAAAAZKj7Aog3zIXv0eE5S7vtBl-1IAM&scisig=ABFrs3wAAAAAZKj7AoxDWAq2kYzqlddJwFHHD1o&scisf=4&ct=citation&cd=-1&hl=en) | 
-|[Adult](https://aclanthology.org/2021.wanlp-1.14)     |DA      |  Macro F1 |    [(Mubarak et al., 2021)](https://scholar.googleusercontent.com/scholar.bib?q=info:-9T7luMQ9U0J:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gr9z_E:ABFrs3wAAAAAZKj71_GxiCVJWByCOEwYNhYOo80&scisig=ABFrs3wAAAAAZKj718edY9Y__adh_COzeQ7LqHM&scisf=4&ct=citation&cd=-1&hl=en)| 
+|[Abusive](https://aclanthology.org/W19-3512/)      |DA      |  Macro F1 |    [(Mulki et al., 2019)](https://aclanthology.org/W19-3512/)  | 
+|[Adult](https://aclanthology.org/2021.wanlp-1.14)     |DA      |  Macro F1 |    [(Mubarak et al., 2021)](https://aclanthology.org/2021.wanlp-1.14)  | 
 |[Age](https://www.aclweb.org/anthology/2020.osact-1.3)            |DA      |  Macro F1 |    [(Abdul-Mageed et al., 2020b)]( https://aclanthology.org/2020.osact-1.3/) | 
-|[ANS Claim](https://aclanthology.org/2020.fever-1.2/)     |MSA      |  Macro F1 |   [(Khouja, 2020)](https://scholar.googleusercontent.com/scholar.bib?q=info:Dl2jkOr3b2IJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gr2mYs:ABFrs3wAAAAAZKjwgYvKUQTr12NsJBP89r72L4U&scisig=ABFrs3wAAAAAZKjwgZBGKXv4I0rJEEVCFoE1WQ0&scisf=4&ct=citation&cd=-1&hl=en) | 
+|[ANS Claim](https://aclanthology.org/2020.fever-1.2/)     |MSA      |  Macro F1 |   [(Khouja, 2020)](https://aclanthology.org/2020.fever-1.2/)   | 
 |[Dialect Binary	](https://aclanthology.org/N18-2004/)     |DA      |  Macro F1 |    [(Farha, 2020)](https://aclanthology.org/2020.osact-1.5/), [(Zaidan, 2014)](xx), [(Abdul-Mageed et al., 2020c)](xx), [(Bouamor et al., 2019)](xx), [(Abdelaliet al., 2020)](xx), [(El-Haj, 2020)](xx). | 
 |[Dialect Country](https://github.com/facebookresearch/XNLI)            |DA      |  Macro F1 |   [(Farha, 2020)](https://aclanthology.org/2020.osact-1.5/), [(Zaidan, 2014)](xx), [(Abdul-Mageed et al., 2020c)](xx), [(Bouamor et al., 2019)](xx), [(Abdelaliet al., 2020)](xx), [(El-Haj, 2020)](xx). | 
 |[Dialect Region](https://github.com/facebookresearch/XNLI)            |DA      |  Macro F1 | [(Farha, 2020)](https://aclanthology.org/2020.osact-1.5/), [(Zaidan, 2014)](xx), [(Abdul-Mageed et al., 2020c)](xx), [(Bouamor et al., 2019)](xx), [(Abdelaliet al., 2020)](xx), [(El-Haj, 2020)](xx). | 
@@ -72,7 +72,7 @@ We arrange [**ORCA**](https://arxiv.org/abs/2212.10758), into seven NLU task clu
 
 
 ###  (5) Structure Predictions (SP)
-|**Task**| **Variation**     | **Metric**   | **Bibtex**   |
+|**Task**| **Variation**     | **Metric**   | **Reference**   |
 |---------|--------|--------|-------|
 |[Aqmar NER](https://www.cs.cmu.edu/~ark/ArabicNER/)      |MSA      |  Macro F1 |    [(Mohit, 2012)](https://scholar.googleusercontent.com/scholar.bib?q=info:yAp4k3zwiUEJ:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gsH__s:ABFrs3wAAAAAZKkB5_vSGkF_RBbXEJ6jQtj1QLE&scisig=ABFrs3wAAAAAZKkB51R-dpSL59TX-7pfhBpllYY&scisf=4&ct=citation&cd=-1&hl=en) | 
 |[Arabic NER Corpus](http://www.dsic.upv.es/~prosso/resources/BenajibaRosso_IICAI07.pdf)     |MSA      |  Macro F1 |    [(Benajiba and Rosso, 2007)](https://scholar.googleusercontent.com/scholar.bib?q=info:7lzaX3LgFm0J:scholar.google.com/&output=citation&scisdr=ChXrDqdnEOfk8gsEZds:ABFrs3wAAAAAZKkCfdu54C_20sUBAs0qQl0T-MU&scisig=ABFrs3wAAAAAZKkCfRUtInM39LNKgqLZG7jAPs8&scisf=4&ct=citation&cd=-1&hl=en) | 
@@ -81,13 +81,13 @@ We arrange [**ORCA**](https://arxiv.org/abs/2212.10758), into seven NLU task clu
  
 
 ###  (6) Topic Classification (TC)
-|**Task**| **Variation**     | **Metric**   | **Bibtex**   |
+|**Task**| **Variation**     | **Metric**   | **Reference**   |
 |---------|--------|--------|-------|
 |[Topic](https://aclanthology.org/2021.acl-long.551/)      |MSA      |  Macro F1 |    [(Abbas et al.,2011)](https://www.dline.info/fpaper/jdim/v9i5/1.pdf), [(Chouigui et al.,2017)](https://www.researchgate.net/publication/320871871_Poster_ANT_Corpus_An_Arabic_News_Text_Collection_for_Textual_Classification),  [(Saad, 2010)](http://site.iugaza.edu.ps/wp-content/uploads/mksaad-OSAC-OpenSourceArabicCorpora-EECS10-rev9(1).pdf). | 
 
 
 ###  (7) Word Sense Disambiguation (WSD)
-|**Task**| **Variation**     | **Metric**   | **Bibtex**   |
+|**Task**| **Variation**     | **Metric**   | **Reference**   |
 |---------|--------|--------|-------|
 |[Word Sense Disambiguation](https://www.mdpi.com/2076-3417/11/6/2567)     |MSA      |  Macro F1 |    [(El-Razzaz, 2021)](https://www.mdpi.com/2076-3417/11/6/2567) | 
 
