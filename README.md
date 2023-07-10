@@ -44,7 +44,7 @@ We arrange [**ORCA**](https://arxiv.org/abs/2212.10758), into seven NLU task clu
 ###  (3) Semantic Textual Similarity and  Paraphrase (STSP)
 |**Task**| **Variation**     | **Metric**   | **Reference**   |
 |---------|--------|--------|-------|
-|[Emotion Regression](https://aclanthology.org/S18-1001/)      |MSA      | Superman Correlation|    [(Saif et al., 2018)](https://aclanthology.org/S18-1001/)  | 
+|[Emotion Regression](https://aclanthology.org/S18-1001/)      |MSA      | Spearman Correlation|    [(Saif et al., 2018)](https://aclanthology.org/S18-1001/)  | 
 |[MQ2Q](https://aclanthology.org/2019.nsurl-1.1)     |MSA      |  Macro F1 |    [(Seelawi al., 2019)](https://aclanthology.org/2019.nsurl-1.1)   | 
 |[STS](https://aclanthology.org/S17-2001/)            |MSA      |  Macro F1 |    [(Cer et al., 2017)](https://aclanthology.org/S17-2001/)  | 
 
