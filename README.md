@@ -95,10 +95,24 @@ We arrange [**ORCA**](https://arxiv.org/abs/2212.10758), into seven NLU task clu
 
 
 # How to Use ORCA
+### Request Access ###
+To obtain access to the ORCA benchmark on Huggingface, follow the following steps:
+- Login on your Haggingface account
+
+  <img src="orca_request1.png" width="55%"/>
+- Request access
+
+  <img src="orca_request2.png" width="55%"/>
 
 ### Install Requirments
 ```shell
     pip install datasets transformers seqeval
+```
+### Login with your Huggingface CLI ###
+You can get/manage your access tokens in your [settings](https://huggingface.co/docs/hub/security-tokens).
+```shell
+    export HUGGINGFACE_TOKEN="" 
+    huggingface-cli login --token $HUGGINGFACE_TOKEN
 ```
 ### Fine-tuning PLMs on ORCA tasks
 We provide a Google Colab Notebook that includes instructions for fine-tuning any model on ORCA tasks. <a href="https://colab.research.google.com/github/UBC-NLP/orca/blob/main/Finetuning_ORCA.ipynb"><img alt="colab" src="https://colab.research.google.com/assets/colab-badge.svg">
