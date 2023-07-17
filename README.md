@@ -99,10 +99,10 @@ We arrange [**ORCA**](https://arxiv.org/abs/2212.10758), into seven NLU task clu
 To obtain access to the ORCA benchmark on Huggingface, follow the following steps:
 - Login on your Haggingface account
 
-  <img src="orca_request1.png" width="55%"/>
+  <img src="orca_request1.png" width="70%"/>
 - Request access
 
-  <img src="orca_request2.png" width="55%"/>
+  <img src="orca_request2.png" width="70%"/>
 
 ### Install Requirments
 ```shell
