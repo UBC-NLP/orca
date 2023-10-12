@@ -292,7 +292,7 @@ def main():
         for label in labels:
             unique_labels = unique_labels | set(label)
         label_list = list(unique_labels)
-        label_list.append("O") # for test set
+        # label_list.append("O") # for test set
         label_list.sort()
         # print(">>>>>>>label_list=", label_list)
         return label_list
